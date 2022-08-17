@@ -1,0 +1,165 @@
+body {
+    background-color: #00A5E3;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.logoimg {
+    width: 100px;
+  
+}
+
+.hotbar {
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #8dd7bf;
+    color:black;
+    text-transform: uppercase;
+    position: relative;
+    text-decoration: none;
+
+}
+
+
+.hotbar p {
+    font-size: larger;
+    text-align: center;
+}
+.hotbar a {
+    font-size: larger;
+    text-decoration: none;
+    text-align: center;
+}
+
+.hotbar p:hover {
+    color: white;
+    transition: .3s;
+    font-weight: 1000;
+}
+
+.hotbar a:hover {
+    color: white;
+    transition: .3s;
+    font-weight: 1000;
+}
+
+
+
+
+h1 {
+    color:#00A5E3;
+    stroke:black;
+    -webkit-text-stroke: .1px black;
+}
+
+h3 {
+    color:#00A5E3;
+    stroke:black;
+    -webkit-text-stroke: .1px black;
+}
+.about {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about img {
+    width: 600px;
+}
+
+.K21 {
+    text-align: center;
+    font-size: 25px;
+    background-color: #8dd7bf;
+}
+
+.kontainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.K223 {
+    text-align: center;
+    font-size: 25px;
+    background-color: #8dd7bf;
+}
+
+.K425 {
+    text-align: center;
+    font-size: 25px;
+    background-color: #8dd7bf;
+}
+
+footer {
+    text-align: center;
+    font-size: larger;
+    background-color: #8dd7bf;
+}
+
+.clarcay {
+    width: 353px;
+    height: 500px;
+    border: 5px solid black;
+    box-shadow: 4px 4px 2px rgba(0, 0, 0, .5);
+}
+
+
+
+.K-1-Titles{
+    padding-right: 205px;
+     display: flex;
+     align-items:flex-start;
+     justify-content:space-between;
+ }
+ 
+ .K-1-T{
+     padding-right: 190px;
+     display: flex;
+   justify-content:space-between;
+ }
+ 
+ 
+ .G2-3{
+    padding-right: 200px;
+    display: flex;
+  justify-content:space-between;
+ }
+ 
+ 
+ .G2-3N{
+    padding-right: 200px;
+    display: flex;
+    align-items:flex-start;
+    justify-content:space-between;
+  }
+ 
+ 
+ 
+  .G4-5{
+     padding-right: 175px;
+     display: flex;
+   justify-content:space-between;
+ }
+ 
+ 
+ .G4-5N{
+    padding-right: 210px;
+    display: flex;
+    align-items:flex-start;
+    justify-content:space-between;
+  }
+
+.crossbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #8dd7bf;
+    padding: -10000000px;
+}
+ 
+
+.abus {
+    text-decoration: none;
+    font-size: larger;
+    text-align: center;
+}
